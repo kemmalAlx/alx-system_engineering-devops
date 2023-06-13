@@ -1,2 +1,2 @@
 #!/bin/bash
-ls $PWD | wc -l
+ls -l $PWD | wc -l
